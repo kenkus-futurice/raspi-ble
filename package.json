@@ -1,0 +1,22 @@
+{
+  "name": "raspi-ble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenkus-futurice/raspi-ble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenkus-futurice/raspi-ble/issues"
+  },
+  "homepage": "https://github.com/kenkus-futurice/raspi-ble#readme",
+  "dependencies": {
+    "noble": "^1.7.0"
+  }
+}
